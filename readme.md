@@ -1,1 +1,1 @@
-# Prog 3
+# Programozás 3 gyakorló feladatok
