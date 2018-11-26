@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogMocker", "LogMocker\LogMocker.csproj", "{2EC3F87C-CA2C-417B-9F14-160DA2159A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogMoq_Test", "LogMoq_Test\LogMoq_Test.csproj", "{42FD7AD0-6C8A-49DE-BD82-D65D3EE2CAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC3F87C-CA2C-417B-9F14-160DA2159A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC3F87C-CA2C-417B-9F14-160DA2159A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC3F87C-CA2C-417B-9F14-160DA2159A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC3F87C-CA2C-417B-9F14-160DA2159A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FD7AD0-6C8A-49DE-BD82-D65D3EE2CAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FD7AD0-6C8A-49DE-BD82-D65D3EE2CAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FD7AD0-6C8A-49DE-BD82-D65D3EE2CAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FD7AD0-6C8A-49DE-BD82-D65D3EE2CAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41387A92-DF57-43CF-A61A-72C542B167EB}
+	EndGlobalSection
+EndGlobal
