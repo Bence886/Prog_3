@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MintaZH_2", "MintaZH_2\MintaZH_2.csproj", "{BC8F2087-1DCB-4872-8059-4F6A46B352E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minta_Test", "Minta_Test\Minta_Test.csproj", "{A2610C25-1114-4FDF-884E-189832A22BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8F2087-1DCB-4872-8059-4F6A46B352E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8F2087-1DCB-4872-8059-4F6A46B352E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8F2087-1DCB-4872-8059-4F6A46B352E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8F2087-1DCB-4872-8059-4F6A46B352E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2610C25-1114-4FDF-884E-189832A22BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2610C25-1114-4FDF-884E-189832A22BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2610C25-1114-4FDF-884E-189832A22BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2610C25-1114-4FDF-884E-189832A22BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D25EDA-56F3-4891-9006-FFF4CDB50FB4}
+	EndGlobalSection
+EndGlobal
